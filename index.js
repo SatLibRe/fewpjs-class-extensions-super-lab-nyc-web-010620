@@ -4,6 +4,8 @@ class Tree {
     this.species = species
   }
   
-  static def
+  static definition(){
+    
+  }
   
 }
