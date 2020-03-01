@@ -12,6 +12,7 @@ class Tree {
 
 class Deciduous extends Tree{
   constructor(species,name){
-    super(name) = name
+    this.name = name
+    this.species = species
   }
 }
